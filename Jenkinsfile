@@ -15,7 +15,7 @@ pipeline {
                  script{
                         dir("terraform")
                         {
-                            git "https://github.com/sivaaws1985/VMcreate.git"
+                            git "https://github.com/sivaaws1985/VM1.git"
                         }
                     }
                 }
